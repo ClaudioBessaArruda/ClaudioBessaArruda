@@ -5,5 +5,5 @@
 - 📫 How to reach me and portfolio:  
 linkedin: https://www.linkedin.com/in/cl%C3%A1udio-bessa-arruda-menezes-945450167/  
 codepen: https://codepen.io/claudiobessaarruda  
-email: claudiobessarruda@gmail.com
+email: claudiobessarruda@gmail.com or
        claudioccjpunirio@gmail.com
