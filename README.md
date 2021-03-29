@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ClaudioBessaArruda
-- 👀 I’m interested in data-driven solutions in both public and private enterprises, even more if it benefits society to be more integrated and inclusive. 
+- 👀 I’m interested in data-driven solutions in both public and private enterprises, if it benefits society to be more integrated and inclusive, it's a plus :thumbsup::metal:.  
 - 🌱 I’m currently learning Data Science, postgraduate level at UNICSUL.
 - 💞️ I’m looking to collaborate in projects that involve data mining, analysis, visualization, ML and AI.
 - 📫 How to reach me and portfolio:  
