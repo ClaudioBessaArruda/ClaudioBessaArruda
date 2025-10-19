@@ -4,6 +4,6 @@
 - 🧑🏽‍🎓 Data Science and Cybersecurity, postgraduate level.
 - 💞️ I’m looking to collaborate in projects that involve AI, R&D, finance.
 
-- 📫 How to reach me and portfolio:  
-codepen: https://codepen.io/claudiobessaarruda  
+- 📫 How to reach me:  
 email: claudiobessarruda@gmail.com
+codepen: https://codepen.io/claudiobessaarruda  
